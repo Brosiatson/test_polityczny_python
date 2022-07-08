@@ -1,0 +1,5 @@
+Gardzisz Gwozdziem?:
+
+A:TAK
+B:NIE
+C:NIE WIEM

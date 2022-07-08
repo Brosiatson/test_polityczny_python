@@ -1,0 +1,5 @@
+Czy Storkizm jest ci bliska idea?:
+
+A:TAK
+B:NIE
+C:NIE WIEM

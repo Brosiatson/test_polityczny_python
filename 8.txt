@@ -1,0 +1,5 @@
+Monarchia lepsza od demokracji?:
+
+A:TAK
+B:NIE
+C:NIE WIEM

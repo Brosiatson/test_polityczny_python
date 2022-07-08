@@ -1,0 +1,5 @@
+Polska dla Polakow?:
+
+A:TAK
+B:NIE
+C:NIE WIEM
